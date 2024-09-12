@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋🏽, I'm Malin</h1>
 <h3 align="center">A Frontend Developer and Designer based in Paris</h3>
 
-- ✨ I’m currently working on [Midpoint](https://www.midpoint.world/)
-
 - 🔧 I’m currently learning **React**
 
 - ✍🏽 My first real project was [Terrain](https://byemalin.com/terrain)
 
-- 👨🏽‍💻 All of my projects are available at [byemalin.com](https://byemalin.com)
+- 👨🏽‍💻 My projects are available at [byemalin.com](https://byemalin.com)
 
-- ✉️ You can contact me at **malin@newschool.edu**
+- ✉️ You can contact me at **malin@byemalin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
