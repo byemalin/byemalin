@@ -2,7 +2,7 @@
 
 ✍🏽 [Terrain](https://byemalin.com/terrain)
 
-🎓 [StageFlow](https://stageflow.fr)
+🎓 [StageFlow](https://stageflow.careers)
 
 ✉️ **malin@byemalin.com**
 
